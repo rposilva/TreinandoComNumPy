@@ -1,0 +1,51 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 69
+        length: 76
+        placeholder_text: "# Create a 1D array using arange function"
+        initial_state:
+          length: 41
+          offset: 69
+        initialized_from_dependency: false
+        encrypted_possible_answer: iI5YxwN3iAhnECD3OHjDaFYuL7WHkQpl8VljIW86svMc7SqQbFGiZBtPrQcd+4AE
+        selected: true
+        status: Solved
+      - offset: 150
+        length: 79
+        placeholder_text: "# Reshape the 1D array so that you can transpose it"
+        initial_state:
+          length: 51
+          offset: 115
+        initialized_from_dependency: false
+        encrypted_possible_answer: nqdIfDpaAXAEnxp+u7yp3JGv615vhb0bFR+SR6akCb/piuAV5ETMCxchX5FE1OUf
+        selected: true
+        status: Solved
+      - offset: 241
+        length: 38
+        placeholder_text: "# Return the transposed array"
+        initial_state:
+          length: 29
+          offset: 178
+        initialized_from_dependency: false
+        encrypted_possible_answer: RolfkCp8Ky6AvNtV8gVBNw==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Transposing+Sorting+Concatenating+/+Transpose+1D
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 31 Dec 2025 17:20:34 UTC"
+record: -1

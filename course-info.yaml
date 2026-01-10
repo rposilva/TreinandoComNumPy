@@ -1,0 +1,16 @@
+type: marketplace
+title: Mastering Python Libraries – NumPy
+language: English
+summary: "<p>Tame messy math with NumPy, the Python library that powers AI, data science,\
+  \ and high-speed computing. Slice arrays, crunch numbers, and build real-world skills\
+  \ in a learner-friendly, professional IDE.</p>"
+programming_language: Python
+environment: unittest
+content:
+  - NumPy
+  - Projects
+additional_files:
+  - name: requirements.txt
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/18302-mastering-python-libraries--numpy/reviews
+yaml_version: 5

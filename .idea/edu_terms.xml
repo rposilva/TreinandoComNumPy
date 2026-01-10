@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TermsProjectSettings">
+    <currentTermsLanguage>en</currentTermsLanguage>
+    <terms>
+      <map>
+        <entry key="en">
+          <value>
+            <map>
+              <entry key="14156312">
+                <value>
+                  <list>
+                    <Term value="unitary" definition="A matrix whose inverse is equal to its conjugate transpose." />
+                    <Term value="diagonal" definition="A matrix with nonzero entries only on its main diagonal." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="42019536">
+                <value>
+                  <list>
+                    <Term value="slicing" definition="Selecting specific elements or subarrays from an array using start:stop:step notation." />
+                    <Term value="shape" definition="A tuple representing the dimensions of a NumPy array." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="69639231">
+                <value>
+                  <list>
+                    <Term value="slicing" definition="Selecting specific portions of a sequence, such as a list or array, using a defined range of indices." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="123055975">
+                <value>
+                  <list>
+                    <Term value="dtype" definition="Data type of elements stored in a NumPy array, such as float32 or int64." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="184844153">
+                <value>
+                  <list>
+                    <Term value="colormap" definition="A mapping from data values to colors, used to visualize data in plots or images." />
+                    <Term value="matplotlib" definition="A popular Python library for creating static, animated, and interactive visualizations." />
+                    <Term value="cmap" definition="An argument in matplotlib specifying which colormap to use for displaying image data." />
+                    <Term value="NumPy" definition="A Python library for numerical computing, especially for working with arrays and matrices." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="220566406">
+                <value>
+                  <list>
+                    <Term value="Scalar" definition="A single numerical value, not an array or collection." />
+                    <Term value="broadcasting" definition="Automatic expansion of arrays with different shapes for elementwise operations in NumPy." />
+                    <Term value="elementwise" definition="Operation applied independently to each element of an array." />
+                    <Term value="Boolean Indexing" definition="Selecting array elements using a boolean array as a mask." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="301428866">
+                <value>
+                  <list>
+                    <Term value="ValueError" definition="An exception raised in Python when a function receives an argument of the right type but inappropriate value." />
+                    <Term value="axis" definition="A dimension along which operations are performed in NumPy arrays, e.g., rows (axis 0) or columns (axis 1)." />
+                    <Term value="diagonal matrix" definition="A square matrix where all elements outside the main diagonal are zero." />
+                    <Term value="singular values" definition="Non-negative values from the singular value decomposition (SVD) representing the magnitude of each component." />
+                    <Term value="SVD" definition="Singular Value Decomposition, a matrix factorization technique in linear algebra." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="414667273">
+                <value>
+                  <list>
+                    <Term value="reshape" definition="A NumPy function that changes the shape of an array without changing its data." />
+                    <Term value="vectorizing" definition="Transforming operations to work on entire arrays instead of element by element, improving performance." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="427264264">
+                <value>
+                  <list>
+                    <Term value="axis" definition="Specifies the dimension along which an operation is performed in a multi-dimensional array." />
+                    <Term value="views" definition="A new array object that looks at the same data as the original array, without copying it." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="495367508">
+                <value>
+                  <list>
+                    <Term value="slicing" definition="Selecting a subset of elements from an array or sequence using start:stop:step notation." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="498909471">
+                <value>
+                  <list>
+                    <Term value="import pandas as pd" definition="This statement imports the Pandas library in Python and assigns it the alias 'pd' for better readability and code convention." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="562087913">
+                <value>
+                  <list>
+                    <Term value="orthogonal" definition="A matrix whose rows and columns are perpendicular unit vectors; its inverse equals its transpose." />
+                    <Term value="diagonal" definition="A matrix where all non-diagonal elements are zero; only main diagonal may have nonzero values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="858221880">
+                <value>
+                  <list>
+                    <Term value="placeholder" definition="A temporary value used to reserve space until actual data is assigned." />
+                    <Term value="keyword argument" definition="A function argument specified by name, not just position, improving code clarity." />
+                    <Term value="shape" definition="The dimensions of an array, usually expressed as a tuple of integers." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="955350804">
+                <value>
+                  <list>
+                    <Term value="NumPy" definition="A Python library for efficient numerical computations, especially with arrays and matrices." />
+                    <Term value="regression" definition="A type of machine learning task predicting continuous values based on input data." />
+                    <Term value="vectors" definition="An ordered one-dimensional array of numbers, often used in mathematical computations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1005399980">
+                <value>
+                  <list>
+                    <Term value="reshape" definition="Change the shape of an array without changing its data." />
+                    <Term value="arange" definition="Return evenly spaced values within a given interval as a NumPy array." />
+                    <Term value="shape" definition="Tuple indicating the dimensions of an array." />
+                    <Term value="T" definition="Attribute that returns the transpose of an array in NumPy." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1089829927">
+                <value>
+                  <list>
+                    <Term value="flattened" definition="Transforming a multi-dimensional array into a one-dimensional array." />
+                    <Term value="header" definition="The first row in a CSV file, typically containing column names." />
+                    <Term value="argmax" definition="NumPy function that returns the index of the maximum value in an array." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1134245149">
+                <value>
+                  <list>
+                    <Term value="probability density function" definition="A function describing the relative likelihood for a random variable to take on a given value." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1163388482">
+                <value>
+                  <list>
+                    <Term value="object_" definition="A NumPy data type for arbitrary Python objects, allowing arrays to store any object type." />
+                    <Term value="string_" definition="A NumPy scalar type representing fixed-size byte strings, used for storing text data in arrays." />
+                    <Term value="unicode_" definition="A NumPy scalar type for fixed-size Unicode strings, supporting international text in arrays." />
+                    <Term value="codec" definition="A program or algorithm used to encode or decode data, especially for text encoding formats." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1166546450">
+                <value>
+                  <list>
+                    <Term value="floating point precision" definition="The accuracy with which real numbers are represented in a computer using floating-point format." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1175997527">
+                <value>
+                  <list>
+                    <Term value="submodule" definition="A module nested within another module, providing additional functionality or organization." />
+                    <Term value="properties" definition="A special attribute of an object, accessed like a variable but often computed dynamically." />
+                    <Term value="tuple" definition="An immutable, ordered collection of elements, often used to group related data." />
+                    <Term value="channels" definition="A component of an image representing intensity for a specific color, like red, green, or blue." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1195517173">
+                <value>
+                  <list>
+                    <Term value="axes" definition="Axes are the dimensions along which data is organized in an array or matrix." />
+                    <Term value="view" definition="A view is a new array object that looks at the same data as the original array." />
+                    <Term value="permuting" definition="To permute means to rearrange the order of elements or axes in an array." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1223223555">
+                <value>
+                  <list>
+                    <Term value="tuple" definition="An immutable sequence type in Python, similar to a list but cannot be changed after creation." />
+                    <Term value="dtype" definition="An attribute in NumPy arrays indicating the data type of the array's elements." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1234634568">
+                <value>
+                  <list>
+                    <Term value="broadcastable" definition="Describes arrays that can be automatically expanded to have compatible shapes for elementwise operations." />
+                    <Term value="reshaped" definition="Change the shape of an array without changing its data." />
+                    <Term value="expand_dims" definition="Insert a new axis into an array, increasing its dimensionality." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1243094924">
+                <value>
+                  <list>
+                    <Term value="flatten" definition="Converts a multi-dimensional array into a one-dimensional array." />
+                    <Term value="reshape" definition="Changes the shape of an array without changing its data." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1270173597">
+                <value>
+                  <list>
+                    <Term value="reshaped" definition="Change the shape of an array without changing its data." />
+                    <Term value="arange" definition="Return evenly spaced values within a given interval as a NumPy array." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1281234587">
+                <value>
+                  <list>
+                    <Term value="in-place" definition="An operation that modifies data directly, without creating a new copy of the data." />
+                    <Term value="indices" definition="Positions or addresses of elements within an array or list." />
+                    <Term value="axis" definition="A dimension along which operations like sorting or summing are performed in multi-dimensional arrays." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1375696998">
+                <value>
+                  <list>
+                    <Term value="plt.show" definition="Displays the current figure or plot in a graphical window." />
+                    <Term value="orthogonal" definition="Describes matrices whose columns and rows are perpendicular unit vectors; their inverse equals their transpose." />
+                    <Term value="slicing" definition="Selecting a subset of elements from sequences like lists, arrays, or matrices using index ranges." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1401829481">
+                <value>
+                  <list>
+                    <Term value="broadcast" definition="Automatic expansion of array shapes to make operations possible in NumPy or similar libraries." />
+                    <Term value="scalar" definition="A single numerical value, as opposed to an array or matrix." />
+                    <Term value="activation function" definition="A function that determines the output of a neural network node." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1417808887">
+                <value>
+                  <list>
+                    <Term value="unicode" definition="A character encoding standard that supports most of the world’s writing systems." />
+                    <Term value="mapping table" definition="A data structure that defines how to convert or replace characters in a string." />
+                    <Term value="string constants" definition="Predefined variables in the string module, like string.digits or string.punctuation." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1486223920">
+                <value>
+                  <list>
+                    <Term value="reshape" definition="NumPy method to change the shape of an array without changing its data." />
+                    <Term value="arange" definition="NumPy function that returns evenly spaced values within a given interval." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1504398193">
+                <value>
+                  <list>
+                    <Term value="singular value decomposition" definition="A matrix factorization technique used in linear algebra for dimensionality reduction and data compression." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1523717521">
+                <value>
+                  <list>
+                    <Term value="Pandas" definition="Pandas is a Python package designed for easy and intuitive manipulation of 'relational' or 'labeled' data." />
+                    <Term value="NumPy" definition="NumPy is a fast and powerful library for basic operations with data in Python." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1580205524">
+                <value>
+                  <list>
+                    <Term value="orthogonal" definition="A matrix whose rows and columns are perpendicular unit vectors; its transpose is also its inverse." />
+                    <Term value="floating point" definition="A numeric representation for real numbers, allowing fractional values and a wide range of magnitudes." />
+                    <Term value="clip" definition="A function that constrains values in an array to a specified minimum and maximum range." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1626751359">
+                <value>
+                  <list>
+                    <Term value="delimiter" definition="A character or string that separates fields or values in a text file." />
+                    <Term value="skiprows" definition="Parameter specifying the number of lines to skip at the start of a file when reading data." />
+                    <Term value="skip_header" definition="Parameter in numpy functions to skip a specified number of lines at the file's start." />
+                    <Term value="fmt" definition="A parameter specifying the format for saving data, such as decimal or exponential notation." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1634564655">
+                <value>
+                  <list>
+                    <Term value="broadcastable" definition="Arrays are broadcastable if they can be automatically expanded to have compatible shapes for operations." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1756413684">
+                <value>
+                  <list>
+                    <Term value="flatten" definition="Converts a multi-dimensional array into a one-dimensional array copy." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1821244440">
+                <value>
+                  <list>
+                    <Term value="broadcastable" definition="Describes arrays that can be automatically expanded to have compatible shapes for operations." />
+                    <Term value="ndarrays" definition="N-dimensional arrays provided by NumPy to store and manipulate data efficiently." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1829576054">
+                <value>
+                  <list>
+                    <Term value="array" definition="A data structure that stores elements of the same type in a fixed-size sequence." />
+                    <Term value="statistical distributions" definition="Mathematical functions that describe the probability of different outcomes in a random experiment." />
+                    <Term value="probability distributions" definition="Functions that describe how probabilities are distributed over possible values." />
+                    <Term value="discrete uniform" definition="A probability distribution where all outcomes in a finite set are equally likely." />
+                    <Term value="variance" definition="A measure of how much values in a dataset differ from the mean." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1868107110">
+                <value>
+                  <list>
+                    <Term value="main" definition="Special block in Python that runs code only when the script is executed directly, not when imported." />
+                    <Term value="script" definition="A file containing Python code intended to be executed as a program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1887325597">
+                <value>
+                  <list>
+                    <Term value="reshape" definition="NumPy method to change the shape of an array without changing its data." />
+                    <Term value="arange" definition="NumPy function that returns evenly spaced values within a given interval." />
+                    <Term value="np" definition="Common alias for the NumPy library, used for numerical operations in Python." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1961434608">
+                <value>
+                  <list>
+                    <Term value="Sigma" definition="A matrix containing singular values from Singular Value Decomposition (SVD)." />
+                    <Term value="Vt" definition="A matrix containing right singular vectors from Singular Value Decomposition (SVD)." />
+                    <Term value="plt.imshow()" definition="A Matplotlib function to display an image from a NumPy array." />
+                    <Term value="ellipsis" definition="In Python, '...' used for advanced slicing in multidimensional arrays." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="1986865187">
+                <value>
+                  <list>
+                    <Term value="elementwise" definition="Applying an operation independently to each element in an array or collection." />
+                    <Term value="boolean array" definition="An array whose elements are either True or False values." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2032675479">
+                <value>
+                  <list>
+                    <Term value="broadcasting" definition="Automatic expansion of arrays of different shapes during arithmetic operations in NumPy." />
+                    <Term value="SVD" definition="Singular Value Decomposition; a matrix factorization technique used in linear algebra." />
+                    <Term value="axes" definition="Dimensions along which operations like summing or transposing are performed in arrays." />
+                    <Term value="permute" definition="To rearrange the order of axes or elements in an array." />
+                    <Term value="transpose" definition="Operation that swaps or reorders the axes of an array or matrix." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2047924321">
+                <value>
+                  <list>
+                    <Term value="broadcast" definition="Automatic expansion of arrays with different shapes to perform element-wise operations." />
+                    <Term value="exception" definition="An error detected during execution that interrupts the normal flow of a program." />
+                  </list>
+                </value>
+              </entry>
+              <entry key="2054819901">
+                <value>
+                  <list>
+                    <Term value="tuple" definition="An immutable ordered collection of elements, often used to group related data in Python." />
+                  </list>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </terms>
+    <termsVersions>
+      <map>
+        <entry key="en" value="126" />
+      </map>
+    </termsVersions>
+  </component>
+</project>

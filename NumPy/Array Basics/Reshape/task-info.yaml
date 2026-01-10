@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: __init__.py
+    visible: false
+    learner_created: false
+  - name: task.py
+    visible: true
+    placeholders:
+      - offset: 24
+        length: 26
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 24
+        initialized_from_dependency: false
+        encrypted_possible_answer: jo+3LadafWQ1nyNEuCwJC3JMITU3Mhpx5KriBDOO4tY=
+        selected: true
+        status: Solved
+      - offset: 55
+        length: 27
+        placeholder_text: "# TODO"
+        initial_state:
+          length: 6
+          offset: 35
+        initialized_from_dependency: false
+        encrypted_possible_answer: Y8OgWqed8431clyJy//s/w==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Array+Basics+/+Reshape
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 13 Dec 2025 18:40:52 UTC"
+record: -1

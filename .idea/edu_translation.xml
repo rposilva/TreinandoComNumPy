@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="TranslationProjectSettings">
+    <option name="currentTranslationLanguage" value="Portuguese (Brazil)" />
+    <option name="structureTranslation">
+      <map>
+        <entry key="Portuguese (Brazil)">
+          <value>
+            <map>
+              <entry key="1005399980" value="Transpor 1D" />
+              <entry key="1089829927" value="Encontrar Valores Únicos" />
+              <entry key="1134245149" value="bincount" />
+              <entry key="1163388482" value="Módulo numpy.char" />
+              <entry key="1166546450" value="Criar um Array a partir de Range" />
+              <entry key="1171426167" value="Indexação e Fatiamento de Arrays" />
+              <entry key="1175997527" value="Carregar Imagem" />
+              <entry key="1195517173" value="Transpor" />
+              <entry key="1223223555" value="Criar um Array a partir de Lista" />
+              <entry key="123055975" value="Redimensionar Dados" />
+              <entry key="1234634568" value="Encontrar Máximos" />
+              <entry key="1235733720" value="Matemática com Arrays" />
+              <entry key="1243094924" value="Embaralhar Aleatoriamente" />
+              <entry key="1270173597" value="Concatenar e Empilhar" />
+              <entry key="1281234587" value="Ordenar" />
+              <entry key="1361228522" value="Projetos" />
+              <entry key="1375696998" value="Aproximação" />
+              <entry key="1398900695" value="Editor" />
+              <entry key="1401829481" value="Álgebra Linear" />
+              <entry key="14156312" value="Decomposição em Valores Singulares" />
+              <entry key="1417808887" value="Traduzir" />
+              <entry key="1486223920" value="Indexação Booleana" />
+              <entry key="1504398193" value="Introdução" />
+              <entry key="1523717521" value="Por que usar o NumPy" />
+              <entry key="1580205524" value="Produtos com Arrays n-dimensionais" />
+              <entry key="1593800515" value="SVD" />
+              <entry key="1626751359" value="Leitura e Escrita de Arquivos" />
+              <entry key="1634564655" value="Buscar" />
+              <entry key="1756413684" value="Redimensionar (Reshape)" />
+              <entry key="1821244440" value="Comparação Elemento a Elemento" />
+              <entry key="1824163994" value="Visão do Curso" />
+              <entry key="1829576054" value="Amostragem Aleatória" />
+              <entry key="184844153" value="Tons de Cinza" />
+              <entry key="1868107110" value="Linspace" />
+              <entry key="1887325597" value="Noções Básicas de Indexação" />
+              <entry key="1947451192" value="NumPy" />
+              <entry key="1961434608" value="Aproximação RGB" />
+              <entry key="1973225717" value="Noções Básicas de Arrays" />
+              <entry key="1986865187" value="Operações Básicas de String no NumPy" />
+              <entry key="2032675479" value="Aplicando a Todas as Cores" />
+              <entry key="2047924321" value="Indexação por Array de Inteiros" />
+              <entry key="2054819901" value="ndarray" />
+              <entry key="220566406" value="Comparar com um Escalar" />
+              <entry key="301428866" value="Reconstruir Matriz Diagonal" />
+              <entry key="414667273" value="Broadcasting" />
+              <entry key="42019536" value="Acessar Dados do Pixel Vermelho" />
+              <entry key="427264264" value="Dividir" />
+              <entry key="433422007" value="Descrição da Tarefa" />
+              <entry key="495367508" value="Ordenação Parcial" />
+              <entry key="498909471" value="Importar NumPy" />
+              <entry key="514017731" value="Navegando pelo ambiente" />
+              <entry key="562087913" value="SVD em Uma Matriz" />
+              <entry key="599051443" value="Arrays de Strings e Valores Unicode" />
+              <entry key="631357043" value="Transposição, Ordenação, Concatenação" />
+              <entry key="637170794" value="Introdução" />
+              <entry key="69639231" value="Separar Canais de Cor" />
+              <entry key="851953505" value="Comparar, Buscar" />
+              <entry key="858221880" value="Criar um Array Vazio" />
+              <entry key="955350804" value="Funções Matemáticas Básicas" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="translationVersions">
+      <map>
+        <entry key="Portuguese (Brazil)" value="2505" />
+      </map>
+    </option>
+  </component>
+</project>
