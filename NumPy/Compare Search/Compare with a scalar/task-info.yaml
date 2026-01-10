@@ -5,7 +5,7 @@ files:
     visible: true
     placeholders:
       - offset: 52
-        length: 43
+        length: 12
         placeholder_text: "# TODO: create a boolean array"
         initial_state:
           length: 30
@@ -14,15 +14,15 @@ files:
         encrypted_possible_answer: ig1mPv5gGkijBPi0X5j+5w==
         selected: true
         status: Solved
-      - offset: 111
-        length: 43
+      - offset: 80
+        length: 12
         placeholder_text: "# TODO: use it as a filter/mask"
         initial_state:
           length: 31
           offset: 98
         initialized_from_dependency: false
         encrypted_possible_answer: dQDfPZ2/X4G3jHBt0o2qRQ==
-        selected: false
+        selected: true
         status: Solved
     learner_created: false
   - name: tests/test_task.py
