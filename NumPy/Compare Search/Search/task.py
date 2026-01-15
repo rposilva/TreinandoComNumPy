@@ -4,14 +4,12 @@ rng = np.random.default_rng()
 temperatures = rng.integers(25, size=7)
 days = np.array(['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'])
 
-high = # TODO
-low = # TODO
-result = # TODO
-warm_days = # TODO
+high = np.array(['High'] * 7)
+low = np.array(['Low'] * 7)
+result = np.where(temperatures > 15, high, low)# TODO
+warm_days = days[temperatures > 15]# TODO
 
 if __name__ == '__main__':
     print(temperatures)
     print(result)
     print(warm_days)
-
-
