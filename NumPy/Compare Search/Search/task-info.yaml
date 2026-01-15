@@ -24,7 +24,7 @@ files:
         selected: true
         status: Solved
       - offset: 254
-        length: 44
+        length: 38
         placeholder_text: "# TODO"
         initial_state:
           length: 6
@@ -33,8 +33,8 @@ files:
         encrypted_possible_answer: 4SBOtxFE+/dXCQgw3eATq3tMby7KnD7PNcauCkxiODVDshP7WI9opb5wcgw/ubxc
         selected: true
         status: Solved
-      - offset: 311
-        length: 29
+      - offset: 305
+        length: 23
         placeholder_text: "# TODO"
         initial_state:
           length: 6

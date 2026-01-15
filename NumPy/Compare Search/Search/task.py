@@ -6,8 +6,8 @@ days = np.array(['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturd
 
 high = np.array(['High'] * 7)
 low = np.array(['Low'] * 7)
-result = np.where(temperatures > 15, high, low)# TODO
-warm_days = days[temperatures > 15]# TODO
+result = np.where(temperatures > 15, high, low)
+warm_days = days[temperatures > 15]
 
 if __name__ == '__main__':
     print(temperatures)
