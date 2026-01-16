@@ -3,8 +3,8 @@ files:
   - name: task.py
     visible: true
     placeholders:
-      - offset: 240
-        length: 13
+      - offset: 57
+        length: 7
         placeholder_text: "# TODO"
         initial_state:
           length: 6
@@ -13,8 +13,8 @@ files:
         encrypted_possible_answer: hSShUSoZOiBAEb7YIjLTaw==
         selected: true
         status: Solved
-      - offset: 258
-        length: 22
+      - offset: 69
+        length: 16
         placeholder_text: "# TODO"
         initial_state:
           length: 6
