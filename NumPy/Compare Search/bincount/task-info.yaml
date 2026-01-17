@@ -13,15 +13,15 @@ files:
     visible: true
     placeholders:
       - offset: 206
-        length: 6
+        length: 28
         placeholder_text: "# TODO"
         initial_state:
           length: 6
           offset: 206
         initialized_from_dependency: false
         encrypted_possible_answer: pnkCcgjHNb5EQFonKL/crkzN7cA3XPtAGZOX75Zob3A=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: data.csv
     visible: true
@@ -33,5 +33,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Compare+Search+/+bincount
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 17 Jan 2026 03:48:45 UTC"
 record: -1

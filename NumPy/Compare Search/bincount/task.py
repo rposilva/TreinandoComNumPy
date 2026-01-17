@@ -5,7 +5,7 @@ def find_most_frequent_class(data_file):
     csv = np.genfromtxt(data_file, delimiter=',', skip_header=1)
     data, labels = csv[:, 1:], np.array(csv[:, 0], dtype=np.int64)
 
-    return # TODO
+    return np.bincount(labels).argmax()
 
 
 if __name__ == '__main__':
