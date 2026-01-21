@@ -1,7 +1,7 @@
 import numpy as np
 
 csv = np.genfromtxt('data.csv', delimiter=',')
-values, labels = # TODO
+values, labels = csv[:, :-1], csv[:, -1]
 
 weights_layer1 = np.array([[-1.6418692, 0.12774534, -0.24612784, -0.25524955, 0.12560976],
                            [-0.19347666, -1.666441, 1.55708214, 1.59235961, -1.66955242]])
@@ -18,8 +18,8 @@ def activation(x):
 
 
 def predict(data):
-    result_layer1 = # TODO
-    result_layer2 = # TODO
+    result_layer1 = activation(np.dot(data, weights_layer1))
+    result_layer2 = activation(np.dot(result_layer1, weights_layer2))
     return (result_layer2 > 0.5).astype(np.int64)  # This converts the resulting
     # floats to ints, which can be compared with actual data labels.
 
