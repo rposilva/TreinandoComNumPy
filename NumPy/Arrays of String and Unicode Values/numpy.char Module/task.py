@@ -2,7 +2,7 @@ import numpy as np
 
 
 def read_data(file):
-    text = np.genfromtxt(file, delimiter='\n', dtype=np.bytes_)
+    text = np.genfromtxt(file, delimiter='\n', dtype=np.str_)
     return text
 
 

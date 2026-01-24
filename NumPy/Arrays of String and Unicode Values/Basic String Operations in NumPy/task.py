@@ -4,12 +4,13 @@ import numpy as np
 def read_data(file):
     text = np.genfromtxt(file, delimiter='\n', dtype=np.bytes_)
     decoded_text = np.char.decode(text)
-    # TODO
-    return # TODO
+    maiuscule = np.char.upper(decoded_text)
+    return maiuscule
 
 
 def get_line_lengths(array):
-    return # TODO
+    comprimento = np.char.str_len(array)
+    return comprimento
 
 
 if __name__ == '__main__':
