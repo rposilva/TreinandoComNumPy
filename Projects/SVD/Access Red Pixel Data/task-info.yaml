@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: XZlh9qrbehC66wXjIiA/HA==
         selected: true
         status: Solved
+        student_answer: "img[:, :, 0]"
     learner_created: false
   - name: __init__.py
     visible: false

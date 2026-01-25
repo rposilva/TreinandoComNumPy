@@ -2,11 +2,11 @@ import matplotlib.pyplot as plt
 
 img = plt.imread('horse.jpg')  # Read image and transform it into a NumPy array.
 
-red_pixel_data = img[:, :, 0]
+img_rescaled = img / 255.0
+
+img_max, img_min = img.max(), img.min()
+rescaled_max, rescaled_min = img_rescaled.max(), img_rescaled.min()
 
 if __name__ == '__main__':
-    print(red_pixel_data)
-    print(red_pixel_data.shape)
-    print(plt.imshow(red_pixel_data, cmap='Reds'))
-    print(plt.colorbar())
-    print(plt.show())
+    print(img_max, img_min)
+    print(rescaled_max, rescaled_min)

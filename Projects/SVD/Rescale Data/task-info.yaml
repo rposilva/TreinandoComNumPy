@@ -4,35 +4,35 @@ files:
     visible: true
     placeholders:
       - offset: 130
-        length: 18
+        length: 11
         placeholder_text: '''Rescale the data'''
         initial_state:
           length: 18
           offset: 130
         initialized_from_dependency: false
         encrypted_possible_answer: cW/um0trKuD6fK9wwbLAaA==
-        selected: false
-        status: Unchecked
-      - offset: 169
-        length: 45
+        selected: true
+        status: Solved
+      - offset: 162
+        length: 20
         placeholder_text: '''Get maximum and minimum of the initial data'''
         initial_state:
           length: 45
           offset: 169
         initialized_from_dependency: false
         encrypted_possible_answer: OQ2zmPayhDKAbrXP6WdJRfkrcWHHcqcSuHfKdxaNyxM=
-        selected: false
-        status: Unchecked
-      - offset: 244
-        length: 47
+        selected: true
+        status: Solved
+      - offset: 212
+        length: 38
         placeholder_text: '''Get maximum and minimum of the rescaled array'''
         initial_state:
           length: 47
           offset: 244
         initialized_from_dependency: false
         encrypted_possible_answer: rYvkk45eRhc5oXbvVM7tQULEQW5ONKRiUlhntI1/0rHV8Gf1+c2qHIJjCbbZ7GQJ
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: __init__.py
     visible: false
@@ -48,5 +48,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Rescale+Data
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 25 Jan 2026 16:27:41 UTC"
 record: 4
