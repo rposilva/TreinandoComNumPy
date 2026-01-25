@@ -2,10 +2,11 @@ import matplotlib.pyplot as plt
 
 img = plt.imread('horse.jpg')  # Read image and transform it into a NumPy array.
 
-print(type(img))
-print(img.ndim)
-print(img.shape)
+red_pixel_data = img[:, :, 0]
 
 if __name__ == '__main__':
-    plt.imshow(img)  # Display data as an image.
-    plt.show()  # Display all open figures.
+    print(red_pixel_data)
+    print(red_pixel_data.shape)
+    print(plt.imshow(red_pixel_data, cmap='Reds'))
+    print(plt.colorbar())
+    print(plt.show())

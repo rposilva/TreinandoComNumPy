@@ -13,7 +13,7 @@ files:
         encrypted_possible_answer: Om6MRI44sPjzeDmK/88Iag==
         selected: true
         status: Solved
-        student_answer: '''Check the number of dimensions of the image array'''
+        student_answer: img.ndim
       - offset: 154
         length: 9
         placeholder_text: '''Check the shape of the image array'''
@@ -24,7 +24,7 @@ files:
         encrypted_possible_answer: vnMefcgFrW/fIDEAjxvD4A==
         selected: true
         status: Solved
-        student_answer: '''Check the shape of the image array'''
+        student_answer: img.shape
     learner_created: false
   - name: tests/test_task.py
     visible: false
