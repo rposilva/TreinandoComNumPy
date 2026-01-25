@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: cW/um0trKuD6fK9wwbLAaA==
         selected: true
         status: Solved
+        student_answer: img / 255.0
       - offset: 162
         length: 20
         placeholder_text: '''Get maximum and minimum of the initial data'''
@@ -23,6 +24,7 @@ files:
         encrypted_possible_answer: OQ2zmPayhDKAbrXP6WdJRfkrcWHHcqcSuHfKdxaNyxM=
         selected: true
         status: Solved
+        student_answer: "img.max(), img.min()"
       - offset: 212
         length: 38
         placeholder_text: '''Get maximum and minimum of the rescaled array'''
@@ -33,6 +35,7 @@ files:
         encrypted_possible_answer: rYvkk45eRhc5oXbvVM7tQULEQW5ONKRiUlhntI1/0rHV8Gf1+c2qHIJjCbbZ7GQJ
         selected: true
         status: Solved
+        student_answer: "img_rescaled.max(), img_rescaled.min()"
     learner_created: false
   - name: __init__.py
     visible: false
