@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: Om6MRI44sPjzeDmK/88Iag==
         selected: false
         status: Unchecked
+        student_answer: '''Check the number of dimensions of the image array'''
       - offset: 197
         length: 36
         placeholder_text: '''Check the shape of the image array'''
@@ -23,6 +24,7 @@ files:
         encrypted_possible_answer: vnMefcgFrW/fIDEAjxvD4A==
         selected: false
         status: Unchecked
+        student_answer: '''Check the shape of the image array'''
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -39,4 +41,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2zNssakK8ilXQfpetV_ZNh9rioA/viewform?usp=pp_url&entry.2103429047=Projects+/+SVD+/+Load+Image
 status: Unchecked
-record: -1
+record: 2
