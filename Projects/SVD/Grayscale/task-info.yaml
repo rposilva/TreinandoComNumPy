@@ -13,8 +13,7 @@ files:
         encrypted_possible_answer: SFuctY32936AR4BrPfWwGTl4HUWts3QvLozTPONXm7aYl907rdQrZ/eruCV8QTlz
         selected: true
         status: Solved
-        student_answer: "(0.2126 @ (img_rescaled[:, :, 0])) + (0.7152 @ (img_rescaled[:,\
-      \ :, 1])) + (0.0722 @ (img_rescaled[:, :, 2]))"
+        student_answer: "img_rescaled @ np.array([0.2126, 0.7152, 0.0722])"
     learner_created: false
   - name: __init__.py
     visible: false
