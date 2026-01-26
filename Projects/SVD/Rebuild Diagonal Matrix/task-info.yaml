@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: +kkR74fejr/V9bhHZVsTsYHdIp5Z3Y73j/GVA4Lw/wY50mKwij1nv2QvxQAY9aQ5
         selected: false
         status: Solved
+        student_answer: np.zeros_like(img_gray)
       - offset: 251
         length: 26
         placeholder_text: '''Add singular values to the diagonal of Sigma'''
@@ -23,6 +24,7 @@ files:
         encrypted_possible_answer: AtMf4gxswX8FsIxcVMcOe9it7NdDA9u/NFUIF6m36bQ=
         selected: true
         status: Solved
+        student_answer: "np.fill_diagonal(Sigma, s)"
     learner_created: false
   - name: __init__.py
     visible: false
