@@ -3,7 +3,7 @@ files:
   - name: task.py
     visible: true
     placeholders:
-      - offset: 307
+      - offset: 308
         length: 28
         placeholder_text: '''Build the approximation'''
         initial_state:

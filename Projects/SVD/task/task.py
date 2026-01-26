@@ -13,7 +13,7 @@ U, s, Vt = linalg.svd(img_gray)
 Sigma = np.zeros((U.shape[1], Vt.shape[0]))
 np.fill_diagonal(Sigma, s)
 
-k = 50
+k = 200
 approx = U @ Sigma[:, :k] @ Vt[:k, :]
 
 if __name__ == '__main__':
