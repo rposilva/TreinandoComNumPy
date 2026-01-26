@@ -14,8 +14,7 @@ files:
         encrypted_possible_answer: lfE2fJHCWfmSQHZU8wCue9MFks21oRvNId3QmysH0EY=
         selected: true
         status: Solved
-        student_answer: "# TODO: obtain matrices `U`,` s` and `Vt` using svd decomposition\
-      \ of the grayscale image"
+        student_answer: "U, s, Vt = linalg.svd(img_gray)"
     learner_created: false
   - name: __init__.py
     visible: false
