@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: AGCG7mRYhSJalmFG5ZHuFTLHVZPtQqrMJCCIKkcoOlU=
         selected: true
         status: Solved
+        student_answer: "img_rescaled[:, :, 0]"
       - offset: 193
         length: 21
         placeholder_text: '''Use slicing to extract the green channel'''
@@ -23,6 +24,7 @@ files:
         encrypted_possible_answer: AGCG7mRYhSJalmFG5ZHuFSRp7lOROPp7isoi3Ec1NJU=
         selected: true
         status: Solved
+        student_answer: "img_rescaled[:, :, 1]"
       - offset: 230
         length: 21
         placeholder_text: '''Use slicing to extract the blue channel'''
@@ -33,6 +35,7 @@ files:
         encrypted_possible_answer: AGCG7mRYhSJalmFG5ZHuFZcKpIsqFxhPWClkVz9dV0o=
         selected: true
         status: Solved
+        student_answer: "img_rescaled[:, :, 2]"
     learner_created: false
   - name: __init__.py
     visible: false

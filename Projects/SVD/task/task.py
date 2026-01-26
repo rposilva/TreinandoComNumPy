@@ -1,25 +1,14 @@
+import numpy as np
+from numpy import linalg
 import matplotlib.pyplot as plt
 
-img = plt.imread('horse.jpg')  # Read image and transform it into a NumPy array.
+img = plt.imread('horse.jpg')
 
 img_rescaled = img / 255
 
-red_channel = img_rescaled[:, :, 0]
-green_channel = img_rescaled[:, :, 1]
-blue_channel = img_rescaled[:, :, 2]
+img_gray = img_rescaled @ np.array([0.2126, 0.7152, 0.0722])
 
 if __name__ == '__main__':
-    print('Green channel: ')
-    print(red_channel)
-    print('\nRed channel: ')
-    print(green_channel)
-    print('\nBlue channel: ')
-    print(blue_channel)
-    print(plt.imshow(img_rescaled[:, :, 0]))
-    print(plt.show())
-    print(plt.imshow(img_rescaled[:, :, 1]))
-    print(plt.show())
-    print(plt.imshow(img_rescaled[:, :, 2]))
-    print(plt.show())
-    print(plt.imshow(img_rescaled[:, :, :]))
-    print(plt.show())
+    print(img_gray.shape)
+    plt.imshow(img_gray, cmap="gray")
+    plt.show()
