@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: 2E2lnoFgJ4upN2wt5SGMBTIRrwUI0HuhVC0/NE4I7FHhbjlgXVzjR1kGjG10NwB7
         selected: false
         status: Solved
+        student_answer: "np.transpose(img_rescaled, axes=(2, 0, 1))"
       - offset: 211
         length: 32
         placeholder_text: '''Perform singular value decomposition'''
@@ -23,6 +24,7 @@ files:
         encrypted_possible_answer: 4OwND6UoMUQGl/8YPpOtlcUJ3qUS6J+0TJHyr0U/wohdW9HfyvVSlrTxlK73SoJN
         selected: true
         status: Solved
+        student_answer: linalg.svd(img_array_transposed)
     learner_created: false
   - name: __init__.py
     visible: false
