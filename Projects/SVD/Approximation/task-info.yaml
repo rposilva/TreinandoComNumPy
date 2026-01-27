@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: Kq/YtHe3uuhhWcPOBar2am/vV0mJV4XsX/AfpPJnqxU=
         selected: true
         status: Solved
+        student_answer: "U @ Sigma[:, :k] @ Vt[:k, :]"
     learner_created: false
   - name: __init__.py
     visible: false

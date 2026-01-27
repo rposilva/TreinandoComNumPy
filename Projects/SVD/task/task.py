@@ -6,17 +6,9 @@ img = plt.imread('horse.jpg')
 
 img_rescaled = img / 255
 
-img_gray = img_rescaled @ [0.2126, 0.7152, 0.0722]
-
-U, s, Vt = linalg.svd(img_gray)
-
-Sigma = np.zeros((U.shape[1], Vt.shape[0]))
-np.fill_diagonal(Sigma, s)
-
-k = 200
-approx = U @ Sigma[:, :k] @ Vt[:k, :]
+img_array_transposed = np.transpose(img_rescaled, axes=(2, 0, 1))
+U, s, Vt = linalg.svd(img_array_transposed)
 
 if __name__ == '__main__':
-    plt.imshow(approx, cmap="gray")
-    plt.show()
-    print(approx.shape)
+    print(img_array_transposed.shape)
+    print(U.shape, s.shape, Vt.shape)
