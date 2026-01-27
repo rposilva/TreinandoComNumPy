@@ -13,6 +13,7 @@ files:
         encrypted_possible_answer: C0CTbp7rxWPKizq542siS79BMSeHH0rgvIe6V2shGGQ=
         selected: true
         status: Solved
+        student_answer: np.zeros_like(img_array_transposed)
       - offset: 284
         length: 55
         placeholder_text: "# TODO: iteratively fill it with values from s"
@@ -23,6 +24,9 @@ files:
         encrypted_possible_answer: BKfHM20QyLr0P0IP4Woe7US9x/NEADhM/4WB2RfR3VzplHIEWc08WHfeODtsAxlIQ0PdABOqmSTNuP4bcyiqpggdmLPprScGZDo/AzYdbDg=
         selected: true
         status: Solved
+        student_answer: |-
+          for i in range(3):
+              np.fill_diagonal(Sigma[i], s[i])
       - offset: 357
         length: 14
         placeholder_text: '''Rebuild the full SVD with no approximation'''
@@ -33,6 +37,7 @@ files:
         encrypted_possible_answer: n6qROYtPszEcjxFl7lRbag==
         selected: true
         status: Solved
+        student_answer: U @ Sigma @ Vt
     learner_created: false
   - name: __init__.py
     visible: false
@@ -51,5 +56,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfVgS9Eri_kV2y3xKnSqKW2z
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Tue, 27 Jan 2026 16:11:56 UTC"
+  time: "Tue, 27 Jan 2026 16:13:31 UTC"
 record: 12
